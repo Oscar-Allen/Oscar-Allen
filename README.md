@@ -64,13 +64,6 @@
   <img alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
 </p>
 
-<br>
-
-## <img src="https://img.icons8.com/color/28/000000/bar-chart.png" width="28"/> Analytics & Activity
-
-<p align="center"> 
-  <img src="https://streak-stats.demolab.com/?user=Oscar-Allen&theme=tokyonight&hide_border=true" /> 
-</p>
 
 <br>
 
