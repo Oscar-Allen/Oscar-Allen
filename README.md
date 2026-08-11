@@ -1,21 +1,3 @@
-<!-- HEADER DINÁMICO Y ANIMADO (Cambiar [Nombre]%20[Apellido] por su nombre y [Su%20Rol] por su cargo) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=[Nombre]%20[Apellido]&fontSize=80&fontAlignY=35&desc=[Su%20Rol]%20and%20Developer&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
-</p>
-
-<!-- TEXTO ANIMADO TIPO MÁQUINA DE ESCRIBIR (Reemplazar los textos entre los signos "+") -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=18DBF7&center=true&vCenter=true&width=600&lines=[Su+Rol]+%40+Graphic+Bit;[Estudiante+o+Profesión];[Especialidad+1];[Especialidad+2]" alt="Typing SVG" />
-  </a>
-</p>
-
-<!-- CONTADOR DE VISITAS (Cambiar [TU_USUARIO_DE_GITHUB]) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[TU_USUARIO_DE_GITHUB]&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
----
 <!-- HEADER DINÁMICO Y ANIMADO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Oscar%20Allen&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descSize=22&animation=fadeIn" width="100%"/>
