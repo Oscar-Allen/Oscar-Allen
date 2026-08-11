@@ -5,7 +5,7 @@
 
 <!-- TEXTO ANIMADO TIPO MÁQUINA DE ESCRIBIR -->
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=18DBF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Estudiante+de+Computaci%C3%B3n;Database;Web+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=18DBF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Estudiante+de+Computaci%C3%B3n;Database+Administrator;Web+Development" alt="Typing SVG" />
 </p>
 
 <!-- CONTADOR DE VISITAS -->
